@@ -14,4 +14,4 @@ To use the application, follow these steps:
 
 ### Command
 
-`$ cargo run <file_path>`
+`$ cargo run <width> <height> <diagonal>`
